@@ -4,7 +4,7 @@ Este repositório apresenta uma coleção de projetos práticos de Data Mining, 
 
 ---
 
-## 🚀 Projetos Destaque
+## Projetos Destaque
 
 Explore como o Data Mining pode ser aplicado em diferentes domínios:
 
@@ -63,7 +63,7 @@ A matriz de confusão acima mostra o desempenho do modelo Random Forest na class
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python**
 * **Pandas:** Manipulação e análise de dados.
@@ -73,7 +73,7 @@ A matriz de confusão acima mostra o desempenho do modelo Random Forest na class
 * **Seaborn:** Visualizações estatísticas atraentes e simplificadas.
 * **mlxtend:** Para regras de associação (Apriori).
 
-## 🖥️ Como Executar
+## Como Executar
 1. Clone este repositório:
    
   ```bash
