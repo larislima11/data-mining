@@ -9,6 +9,9 @@ Este projeto explora diferentes cenários de **Data Mining** aplicados a dados r
 - **Base de Dados**: [Household Power Consumption](https://www.kaggle.com/uciml/electric-power-consumption-data-set).
 - **Resultado**: Gráficos de dispersão comparando valores reais e previstos, com métricas de erro (RMSE).
 
+- <img width="663" height="429" alt="image" src="https://github.com/user-attachments/assets/f396a546-e5a6-4987-b73d-f1c5b3cb07e7" />
+
+
 ---
 
 ### 2. Associação em Clientes de Shopping
