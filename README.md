@@ -75,14 +75,16 @@ A matriz de confusão acima mostra o desempenho do modelo Random Forest na class
 
 ## 🖥️ Como Executar
 1. Clone este repositório:
+   
   ```bash
-   git clone https://github.com/larislima11/data-mining.git
+     ``` bash git clone https://github.com/larislima11/data-mining.git
        ```
 
    **Instale as dependências:**
     ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn mlxtend
     ```
+  ```
 
 **Baixe as bases de dados:**
     * **Consumo de Energia:** Baixe `household_power_consumption.txt` do Kaggle: [https://www.kaggle.com/uciml/electric-power-consumption-data-set](https://www.kaggle.com/uciml/electric-power-consumption-data-set)
