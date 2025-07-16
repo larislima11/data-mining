@@ -94,4 +94,4 @@ A matriz de confusão acima mostra o desempenho do modelo Random Forest na class
 
 ## 🎓 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um exercício da disciplina de Data Mining da Facens.
+Este projeto foi desenvolvido como parte de um exercício da disciplina de Bussiness Inteligence do Centro Universitário Facens.
