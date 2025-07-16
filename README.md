@@ -48,8 +48,6 @@ O gráfico do Método do Cotovelo ajuda a determinar o número ideal de clusters
 
 ---
 
-### 4. Previsão de Diabetes
-
 ### 4. Previsão de Diabetes em Pacientes (Classificação)
 
 * **Objetivo:** Prever se um paciente tem ou não diabetes.
