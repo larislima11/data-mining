@@ -1,4 +1,4 @@
-# Estudo de Data Mining para disciplina de Bussiness Inteligence do Centro Universitário Facens.
+# Estudo de Data Mining para disciplina de Business Inteligence do Centro Universitário Facens.
 
 Este repositório apresenta uma coleção de projetos práticos de Data Mining, implementados em Python, demonstrando a aplicação de diversas técnicas para extrair insights valiosos e tomar decisões embasadas a partir de grandes volumes de dados. Cada cenário aborda um problema de negócio ou análise diferente, utilizando bibliotecas essenciais como Pandas, Scikit-learn, Matplotlib e Seaborn.
 
